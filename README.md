@@ -1,4 +1,6 @@
-##
+## Text Editor
+
+- Progressive Web Applications (PWA)
 
 - ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
@@ -7,10 +9,6 @@
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 - ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-
-## Text Editor
-
-- Progressive Web Applications (PWA)
 
 ## Contents
 
