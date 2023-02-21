@@ -143,11 +143,19 @@ THEN I should have proper build scripts for a webpack application
 
 ## Application Screenshot Preview
 
-![Preview-1]
+![Preview-1](./Develop/client/src/images/JATE_1.png)
 
 ##
 
-![Preview-2]
+![Preview-2](./Develop/client/src/images/JATE_2.png)
+
+##
+
+![Preview-3](./Develop/client/src/images/JATE_3.png)
+
+##
+
+![Preview-4](./Develop/client/src/images/JATE_4.png)
 
 ##
 
