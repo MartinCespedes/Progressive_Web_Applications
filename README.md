@@ -1,6 +1,8 @@
 ## Text Editor
 
-- Progressive Web Applications (PWA)
+- Progressive Web Applications (PWA) : ![Live Link to Heroku APP]("/")
+
+- ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 - ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
