@@ -123,23 +123,23 @@ THEN I should have proper build scripts for a webpack application
 
 ## Features
 
-- 1. Offline mode: The text editor should be able to work offline, allowing users to continue writing even when they don't have an internet connection.
+- Offline mode: The text editor should be able to work offline, allowing users to continue writing even when they don't have an internet connection.
 
-- 2. Auto-save: The text editor should automatically save changes to the user's document, ensuring that they never lose their work.
+- Auto-save: The text editor should automatically save changes to the user's document, ensuring that they never lose their work.
 
-- 3. Rich text editing: The text editor should support a range of formatting options, such as bold, italic, underline, and font size.
+- Rich text editing: The text editor should support a range of formatting options, such as bold, italic, underline, and font size.
 
-- 4. Image insertion: The text editor should allow users to insert images into their document.
+- Image insertion: The text editor should allow users to insert images into their document.
 
-- 5. Sharing: The text editor should enable users to share their document via email or social media.
+- Sharing: The text editor should enable users to share their document via email or social media.
 
-- 6. Collaboration: The text editor should allow multiple users to work on the same document simultaneously.
+- Collaboration: The text editor should allow multiple users to work on the same document simultaneously.
 
-- 7. Responsive design: The text editor should be designed to work seamlessly across a range of devices and screen sizes.
+- Responsive design: The text editor should be designed to work seamlessly across a range of devices and screen sizes.
 
-- 8. Accessibility: The text editor should be designed to be accessible to users with disabilities, with features such as screen reader support and keyboard navigation.
+- Accessibility: The text editor should be designed to be accessible to users with disabilities, with features such as screen reader support and keyboard navigation.
 
-- 9. These are just a few possible features for a PWA text editor - there are many other features that could be added depending on the needs of the user and the specific use case.
+- These are just a few possible features for a PWA text editor - there are many other features that could be added depending on the needs of the user and the specific use case.
 
 ## Application Screenshot Preview
 
